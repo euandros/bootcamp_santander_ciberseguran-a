@@ -22,6 +22,9 @@ Crie um Phishing que recrie a página de login do Facebook e capture as credenci
 * **Obtendo o endereço da máquina**: ifconfig
 * **URL para clone**: http://www.facebook.com
 
+![image](https://github.com/user-attachments/assets/affcab5f-db27-43cd-bd7d-e546308fe055)
+
+
 ![WhatsApp Image 2024-12-13 at 03 08 26](https://github.com/user-attachments/assets/668ba169-d2ff-4794-ba6f-969bf6a77db4)
 
 ![WhatsApp Image 2024-12-13 at 03 08 26 (1)](https://github.com/user-attachments/assets/1b648941-bc48-440e-8c97-69aa57fd0446)
