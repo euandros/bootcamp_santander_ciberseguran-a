@@ -20,3 +20,14 @@ Este repositório contém os códigos que produzi em resposta aos desafios propo
 * [**Phishing - Captura de Credenciais**](https://github.com/euandros/bootcamp_santander_ciberseguranca/blob/main/phishing_captura_credenciais/resposta.md)
 
   Crie um Phishing que recrie a página de login do Facebook e capture as credenciais de acesso do usuário.
+
+* [**Phishing - Identificação de Padrão**](https://github.com/euandros/bootcamp_santander_ciberseguranca/blob/main/identifica_phishing/resposta.md)
+
+  Crie uma solução para analisar uma lista de e-mails recebidos, verificando padrões comuns de phishing nas mensagens. Se um e-mail contiver palavras suspeitas como "ganhe", "prêmio", "urgente", "desconto", "click" e "promoção" ele deve ser classificado como "Phishing" e "Seguro".
+
+* [**Monitoramento - Análise de Logs**](https://github.com/euandros/bootcamp_santander_ciberseguranca/blob/main/monitoramento_logs/resposta.md)
+
+  Implemente um sistema de monitoramento de segurança para um sistema de acesso. Seu objetivo é analisar registros de log de tentativas de acesso para detectar possíveis invasões. Cada registro contém um identificador de usuário e um status que indica se a tentativa de acesso foi bem-sucedida ou falhou.
+
+  A detecção de tentativas de invasão é essencial para a segurança do sistema, e a análise de logs é uma prática comum para identificar comportamentos suspeitos. O sistema deve emitir um alerta se detectar mais de 3 tentativas consecutivas de falha para o mesmo usuário.
+  
