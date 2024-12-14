@@ -5,7 +5,7 @@
 ![Propósito](https://img.shields.io/badge/Propósito_:-Formação-darkorange?style=flat-square) 
 ![Ano](https://img.shields.io/badge/Ano_:-2024-darkred?style=flat-square)
 
-Este repositório contém os códigos que produzi em resposta aos desafios propostos no decorrer do Bootcamp de Cibersegurança, decorrente da parceria entre Santander Open Academy e Dio.
+Este repositório contém os códigos que produzi em resposta aos desafios propostos no decorrer do Bootcamp de Cibersegurança, decorrente da parceria entre Santander Open Academy e Dio. Ressaltando que as respostas aqui apresentadas foram construuídas para serem executadas na plataforma de testes fornecida durante o  Bootcamp, apenas. Para implementações para execução fora deste ambiente é necessário ajustar o código.
 
 ## Lista de Desafios
 
