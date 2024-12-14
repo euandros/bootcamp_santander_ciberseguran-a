@@ -27,11 +27,11 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 **Entrada	Saída**
 
-| Entrada                                  | Saída                   |
-|------------------------------------------|-------------------------|
-| Ganhe um prêmio incrível hoje!	         | Classificação: Phishing |
-| Não perca esta promoção exclusiva!	     | Classificação: Phishing |
-Você está convidado para a reunião amanhã! | Classificação: Seguro   |
+| Entrada                                    | Saída                   |
+|--------------------------------------------|-------------------------|
+| Ganhe um prêmio incrível hoje!	           | Classificação: Phishing |
+| Não perca esta promoção exclusiva!	       | Classificação: Phishing |
+| Você está convidado para a reunião amanhã! | Classificação: Seguro   |
 
 ## O Código em Pyhton 
 
