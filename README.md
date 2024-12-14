@@ -29,3 +29,6 @@ Este repositório contém os códigos que produzi em resposta aos desafios propo
 
   Implemente um sistema de monitoramento de segurança para um sistema de acesso. Seu objetivo é analisar registros de log de tentativas de acesso para detectar possíveis invasões. Cada registro contém um identificador de usuário e um status que indica se a tentativa de acesso foi bem-sucedida ou falhou. O sistema deve emitir um alerta se detectar mais de 3 tentativas consecutivas de falha para o mesmo usuário.
   
+* [**Ransomware - Encriptação de Dados**](https://github.com/euandros/bootcamp_santander_ciberseguranca/blob/main/ransomware_vnsrx/resposta.md))
+
+  Implemente um Ransomware para criptografar arquivos utilizando a linguagem Python.
