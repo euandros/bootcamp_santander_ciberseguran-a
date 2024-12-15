@@ -32,3 +32,9 @@ Este repositório contém os códigos que produzi em resposta aos desafios propo
 * [**Ransomware - Encriptação de Dados**](https://github.com/euandros/bootcamp_santander_ciberseguranca/blob/main/ransomware_vnsrx/resposta.md)
 
   Implemente um Ransomware para criptografar arquivos utilizando a linguagem Python.
+
+***
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/373a8a7a-67d6-4994-b06d-674045804ca2" alt="Uma imagem centralizada">
+</div>
